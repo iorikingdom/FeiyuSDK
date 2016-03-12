@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
     'CoreVideo',
     'CoreMedia',
     'MediaPlayer',
-    'MeidaToolbox',
+    'MediaToolbox',
     'CoreAudio',
     'AudioToolbox',
     'SystemConfiguration',
