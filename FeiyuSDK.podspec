@@ -41,19 +41,3 @@ Pod::Spec.new do |s|
   ]
 
 end
-
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-
