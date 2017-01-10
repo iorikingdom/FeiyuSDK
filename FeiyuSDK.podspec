@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FeiyuSDK"
-  s.version  = '1.2.7'
+  s.version  = '1.3.0'
   s.license  = { :type => 'Copyright', :text => 'Copyright (c) 2012 Feiyu. All rights reserved.' }
   s.summary  = 'The Official iOS SDK of Feiyu.'
   s.authors  = { 'Tencent' => 'developer@wechatapp.com' }
